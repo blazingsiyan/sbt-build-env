@@ -1,0 +1,4 @@
+> run
+> show buildEnv
+> set buildEnv := BuildEnv.prod
+> run
